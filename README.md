@@ -4,6 +4,6 @@ Phylogenetic analyses of various respiratory viruses (SARS-CoV-2, Influenza A vi
 
 Repository contains data from the PRISM collaboration between the Eppicenter, Rapid Response Team (CZB SF) and IDRC Uganda. 
 
-This data accompanies the following preprint:
-https://www.medrxiv.org/content/10.1101/2022.09.02.22279519v1
+This data accompanies the following article:
+https://doi.org/10.1371/journal.pgph.0001675 
 
